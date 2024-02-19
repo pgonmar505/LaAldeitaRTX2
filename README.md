@@ -1,6 +1,5 @@
 # LaAldeitaRTX2
 Proyecto Aldeita
-# LaaldeitaRTX2
 
 ## Descripción
 
