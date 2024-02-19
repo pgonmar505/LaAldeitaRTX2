@@ -1,6 +1,8 @@
 # LaAldeitaRTX2
 Proyecto Aldeita
 
+HOLA HOLAA
+
 ## Descripción
 
 LaaldeitaRTX2 es un proyecto que...
